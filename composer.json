@@ -1,7 +1,6 @@
 {
     "name": "kv4nt/yii2-ldap",
     "description": "Authorize, search users, get user groups and other from LDAP",
-    "version": "1.0.0",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ldap","yii2-extension","ldap-authentication","active-directory","user-management","authentication","authorization"],
     "license": "MIT",
