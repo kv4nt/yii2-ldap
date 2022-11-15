@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kv4nt\\yii2-ldap\\": ""
+            "kv4nt\\ldap\\": ""
         }
     },
     "repositories": [
