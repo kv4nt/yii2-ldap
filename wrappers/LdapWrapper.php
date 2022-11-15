@@ -95,7 +95,7 @@ class LdapWrapper extends BaseObject
     protected function setOptions()
     {
         ldap_set_option($this->ldapConnection, LDAP_OPT_REFERRALS, 0);
-        ldap_set_option($this->ldapConnection, LDAP_OPT_PROTOCOL_VERSION, 3);
+        ldap_set_option($this->ldapConnection, LDAP_OPT_PROTOCOL_VERSION, 2);
     }
 
     /**
