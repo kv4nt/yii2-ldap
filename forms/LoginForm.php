@@ -1,6 +1,6 @@
 <?php
 
-namespace kosoukhov\ldap\forms;
+namespace kv4nt\ldap\forms;
 
 use Yii;
 use yii\base\Model;
@@ -8,8 +8,8 @@ use yii\base\Model;
 /**
  * Class LoginForm
  *
- * @package kosoukhov\ldap\forms
- * @author Kosoukhov V.E.
+ * @package kv4nt\ldap\forms
+ * @author kv4nt V.E.
  */
 class LoginForm extends Model
 {

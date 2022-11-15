@@ -6,13 +6,13 @@
     "keywords": ["yii2","extension","ldap","yii2-extension","ldap-authentication","active-directory","user-management","authentication","authorization"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/kosoukhov/ldap/issues",
-        "source": "https://github.com/kosoukhov/ldap"
+        "issues": "https://github.com/kv4nt/yii2-ldap/issues",
+        "source": "https://github.com/kv4nt/yii2-ldap"
     },
     "authors": [
         {
-            "name": "Vadim Kosoukhov",
-            "email": "kosoukhov@gmail.com"
+            "name": "Vadim kv4nt",
+            "email": "kv4nt@gmail.com"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kosoukhov\\ldap\\": ""
+            "kv4nt\\yii2-ldap\\": ""
         }
     },
     "repositories": [

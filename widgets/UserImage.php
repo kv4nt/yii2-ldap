@@ -1,6 +1,6 @@
 <?php
 
-namespace kosoukhov\ldap\widgets;
+namespace kv4nt\ldap\widgets;
 
 use Yii;
 use yii\base\Widget;
@@ -21,8 +21,8 @@ use yii\helpers\Html;
  * ]);
  * ```
  *
- * @package kosoukhov\ldap\forms
- * @author Kosoukhov V.E.
+ * @package kv4nt\ldap\forms
+ * @author kv4nt V.E.
  */
 class UserImage extends Widget
 {

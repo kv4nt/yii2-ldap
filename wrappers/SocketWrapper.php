@@ -1,6 +1,6 @@
 <?php
 
-namespace kosoukhov\ldap\wrappers;
+namespace kv4nt\ldap\wrappers;
 
 use yii\base\BaseObject;
 use yii\base\InvalidConfigException;
@@ -8,7 +8,7 @@ use yii\base\InvalidConfigException;
 /**
  * Wrapper for ping hosts
  *
- * @author VKosoukhov
+ * @author Vkv4nt
  */
 class SocketWrapper extends BaseObject
 {
